@@ -2,7 +2,8 @@
 
 **Team Members:** [List the full names of all team members here]  
 
-**Resumes and Descriptions**
+**Resumes and Descriptions**  
+
 This repo includes the resumes of the following people:
 
 ###### [Name of Person that Resume 1 is about]
